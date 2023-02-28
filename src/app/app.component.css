@@ -1,0 +1,15 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding-left: 10px;
+    font-size: 50px;
+    color: #283592;
+}
+
+span {
+    padding: 10px;
+    color: #E01b91;
+    font-weight: bold;
+}
